@@ -18,15 +18,15 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -255,15 +255,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="323">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
           </folding>
         </state>
       </provider>
