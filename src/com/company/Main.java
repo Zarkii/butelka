@@ -15,12 +15,21 @@ public class Main {
     void wlej(double ilosc){
         this.ileLitrow += ilosc;
     }
-    void wylej(double ilosc){
-        this.ileLitrow -= ilosc;
+    boolean wylej(double ilosc){
+        if (ilosc > ileLitrow){
+            System.out.println("za mało płynu!");
+            return false;
+        }else {
+            this.ileLitrow -= ilosc;
+            return true;
+        }
     }
     void przelej(double ilosc,Main gdzie){
-        this.wylej(ilosc);
-        gdzie.wlej(ilosc);
+
+        if(this.wylej(ilosc)){
+        gdzie.wlej(ilosc);}
+
+
     }
 
     public static void main(String[] args) {
@@ -35,7 +44,7 @@ public class Main {
         butelka[2].ileLitrow = 9;
 
 
-        butelka[2].przelej(3,butelka[0]);
+        butelka[2].przelej(32,butelka[0]);
 
         for (int i = 0;i <=2;i++){
             System.out.println(butelka[i].GetIleLitrow());
